@@ -1,0 +1,4 @@
+Opdracht 4
+    git checkout -b main 
+        Switched to a new branch 'main'
+    Dit betekend dat we de git branch hebben ingesteld op main
