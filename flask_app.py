@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "<p>Hello World!<p>"
+    return "<p>Huiswerk opgave 4 in txt file<p>"
 
 # Hoofdprogramma
 if __name__ == "__main__":
